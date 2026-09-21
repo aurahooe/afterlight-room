@@ -1,2 +1,3 @@
-# afterlight-room
-Afterlight — a living desk. Notes stay private unless you put them in the hall.
+# Afterlight
+
+A small room for notes. Private until you put them in the hall.
